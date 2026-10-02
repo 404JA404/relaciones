@@ -1,0 +1,17 @@
+1. Define qué es una base de datos.
+Una base de datos es un conjunto de información organizada que se almacena de forma estructurada para poder guardar, consultar, modificar y administrar datos fácilmente.
+Por ejemplo, una biblioteca puede tener una base de datos donde se guarde información sobre sus libros, autores, usuarios y prestamos
+
+2. Cuales son las partes que componen una base de datos?
+Las partes principales de una base de datos son:
+ Tablas: almacenan la información organizada
+ Campos o atributos: son las columnas de las tablas y representan las características de los datos
+ Registros: son las filas que contienen los datos
+ Llaves primarias PK: identifican de manera única cada registro
+ Llaves foraneas FK: permiten relacionar una tabla con otra
+3. ¿Qué significa el modelo Entidad-Relación (E/R)?
+El modelo Entidad-Relación E/R es una forma de representar como está organizada una base de datos.
+Permite identificar:
+Entidades: objetos o elementos sobre los que queremos guardar información
+ Atributos: características de esas entidades
+Relaciones: indican cómo se relacionan las entidades entre sí
